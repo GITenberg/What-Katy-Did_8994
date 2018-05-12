@@ -1,5 +1,8 @@
 _repo: What-Katy-Did_8994
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Coolidge, Susan
@@ -16,6 +19,8 @@ description: What Katy Did is an 1872 children's book written by Sarah Chauncey 
   scrapes but wishing to be beautiful and beloved. When a terrible accident makes
   her an invalid, her illness and four-year recovery gradually teach her to be as
   good and kind as she has always wanted.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8994#What-Katy-Did
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
